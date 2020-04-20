@@ -44,7 +44,7 @@
   },
   "homepage": "https://openzeppelin.com/contracts/",
   "devDependencies": {
-    "@openzeppelin/cli": "^2.7.1",
+    "@openzeppelin/cli": "^2.8.2",
     "@openzeppelin/gsn-helpers": "^0.2.3",
     "@openzeppelin/gsn-provider": "^0.1.9",
     "@openzeppelin/test-environment": "^0.1.2",
